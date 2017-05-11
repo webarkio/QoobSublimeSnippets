@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+    {
+        "name": "${1}",
+        "label": "${2}",
+        "options": [{
+            "id": "${3}",
+            "val": "${4}"
+        }, {
+            "id": "${5}",
+            "val": "${6}"
+        }],
+        "type": "select"
+    }
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>qfs</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>Qoob field select</description>
+</snippet>

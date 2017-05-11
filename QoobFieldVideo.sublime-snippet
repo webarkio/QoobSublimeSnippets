@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+    {
+        "name": "${1:video}",
+        "label": "${2}",
+        "type": "video"
+    }
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>qfv</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>Qoob field video</description>
+</snippet>

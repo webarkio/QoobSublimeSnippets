@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+    {
+        "name": "${1:image}",
+        "label": "${2}",
+        "type": "image",
+        "tags": ["${3}","${4}"]
+    }
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>qfi</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>Qoob field image</description>
+</snippet>

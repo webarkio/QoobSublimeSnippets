@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+    {
+        "name": "${1}",
+        "label": "${2}",
+        "type": "colorpicker",
+        "colors": ["${3}", "${4}", "${5}"]
+    }
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>qfc</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>Qoob field colorpicker</description>
+</snippet>
