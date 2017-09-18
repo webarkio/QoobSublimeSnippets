@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+    {
+        "groups": "${1:content}",
+        "template": "template.hbs",
+        "settings": [{
+            "name": "block_id",
+            "label": "Block's id",
+            "type": "text",
+            "placeholder": "Block's id"
+        }],
+        "defaults": {
+            "block_id": ""
+        }
+    }
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>qcfs</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

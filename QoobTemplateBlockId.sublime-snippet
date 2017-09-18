@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+{{#if block_id }} id="{{block_id}}" {{/if}}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>qtblock_id</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

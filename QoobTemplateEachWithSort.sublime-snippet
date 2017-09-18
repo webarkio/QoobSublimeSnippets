@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+   {{#if ${1}.length}}
+     {{#each_with_sort ${2} "order"}}
+        
+     {{/each_with_sort}}
+   {{/if}}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>qtes</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
